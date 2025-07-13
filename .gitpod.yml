@@ -1,0 +1,16 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Setup Java 17
+    init: sdk install java 17.0.9-tem
+    command: sdk use java 17.0.9-tem && ./mvnw spring-boot:run
+
+ports:
+  - port: 8080
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
+    - pivotal.vscode-spring-boot
