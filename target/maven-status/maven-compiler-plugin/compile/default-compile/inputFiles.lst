@@ -1,0 +1,16 @@
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/exception/CustomException.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/controller/PersonController.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/dto/MeetingDTO.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/controller/MeetingController.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/dto/PersonDTO.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/dto/PersonResponseDTO.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/dto/TimeslotSuggestionDTO.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/exception/GlobalExceptionHandler.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/model/Person.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/repository/MeetingRepository.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/repository/PersonRepository.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/dto/MeetingResponseDTO.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/SchedulerApplication.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/service/MeetingService.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/model/Meeting.java
+/workspace/SchedulerApp/src/main/java/com/example/scheduler/service/PersonService.java
